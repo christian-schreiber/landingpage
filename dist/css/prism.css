@@ -229,7 +229,7 @@ pre[class*="language-"].line-numbers > code {
 
 		.line-numbers-rows > span:before {
 			content: counter(linenumber);
-			color: #999;
+			color: #00ff8f;
 			display: block;
 			padding-right: 0.8em;
 			text-align: right;
